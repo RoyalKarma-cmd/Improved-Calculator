@@ -44,6 +44,3 @@ This is a beginner-friendly calculator project built using Python.
 - Add GUI version
 - Handle invalid inputs better
 - Add history feature
-
-## Author
-[Your Name]
